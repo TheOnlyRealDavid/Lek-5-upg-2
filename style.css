@@ -1,0 +1,106 @@
+#upg{
+    text-align: center;
+}
+
+#top{
+    border: solid #D6001C 2px;
+    border-radius: 5px;
+    background-image: url(./img/snow_winter_trees.jpg);
+    
+}
+#logo{
+    border: solid #D6001C 2px;
+    margin: 0.5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    height: 60px;
+}
+#swe, #smhi, #rt {
+    border: solid black;
+    border-radius: 2px;
+    max-width: 75px;
+    padding: 5px;
+}
+#vinter{
+    text-align: center;
+}
+
+#bottom{
+    border: solid #D6001C 2px;
+    display: flex; 
+    border-radius: 5px; 
+    margin: 1%;            
+}
+
+#vänster{
+    flex: 1;                    
+    border: solid #D6001C 2px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 1%;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#MDN {
+    border: solid black 2px;
+    display: inline-block;
+    padding: 5px;                  
+    border-radius: 5px;
+}
+#MDN img {
+    width: 100%;
+    height: auto;
+}
+#W3{
+    border: solid black 2px;
+    display: inline-block;
+    padding: 5px;                  
+    border-radius: 5px;
+}
+#W3 img{
+    width: 100%;
+    height: auto;
+}
+
+
+#mitten {
+    flex: 3;                   
+    border: solid #D6001C 2px;
+    padding: 10px;
+    border-radius: 5px;
+    border-radius: 5px;
+    margin: 1%;
+}
+
+
+#höger {
+    flex: 1;                    
+    border: solid #D6001C 2px;
+    padding: 5px;
+    width: 120px; 
+    height: auto;
+    display: block;
+    border-radius: 5px;
+    margin: 1%;
+}
+#höger img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#sist{
+    flex: 3;                   
+    border: solid #D6001C 2px;
+    padding: 10px;
+    border-radius: 5px;
+    border-radius: 5px;
+    margin: 1%;
+    text-align: center;
+}
